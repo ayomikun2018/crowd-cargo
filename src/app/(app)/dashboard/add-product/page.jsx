@@ -22,7 +22,7 @@ export default function DashboardPage() {
               Click the button below to start adding <br className="hidden md:block"></br>
               product.
             </p>
-            <Button onClick={handleAddProduct} className="py-6 px-8 rounded-full ">
+            <Button onClick={handleAddProduct} className="py-6 px-8 rounded-full " Link>
               Add Product
             </Button>{" "}
           </div>
