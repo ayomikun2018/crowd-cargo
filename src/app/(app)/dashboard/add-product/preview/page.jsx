@@ -11,7 +11,7 @@ export default function ProductPreview() {
         "/image-01.svg",
         "/image-02.svg",
         "/image-06.svg",
-        "/image-03.svg",
+        "/image-02.svg",
         "/image-05.svg",
       ],
       name: "Calvin Clein Regular fit slim fit shirt",
